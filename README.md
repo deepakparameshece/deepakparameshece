@@ -1,7 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Deepak%20P&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=ECE%20Student%20%7C%20AI%20%7C%20IoT%20%7C%20Full-Stack&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Deepak%20P&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=I%20build%20things%20that%20think%20%F0%9F%A7%A0&descAlignY=58&descSize=20" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/deepakparameshece/deepakparameshece/blob/main/deepakdp.png?raw=true" 
+       alt="Deepak P" 
+       width="150" 
+       style="border-radius: 50%;" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=ECE+Student+%40+VSB+Engineering+College;Turning+hardware+into+intelligence+⚡;React+%7C+Django+%7C+Flutter+%7C+Arduino;When+in+doubt%2C+build+it+out+🛠️" alt="Typing SVG" />
+</p>
 
 ---
 
