@@ -2,9 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Deepak%20P&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=ECE%20Student%20%7C%20AI%20%7C%20IoT%20%7C%20Full-Stack&descAlignY=58&descSize=18" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Deepak+P+👋;AI+%7C+IoT+%7C+Full-Stack+Developer;Building+Intelligent+Systems;Always+Learning%2C+Always+Building!" alt="Typing SVG" />
-</p>
 
 ---
 
