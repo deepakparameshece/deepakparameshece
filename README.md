@@ -29,7 +29,6 @@
   <img src="https://img.shields.io/badge/Status-Building%20Things-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-AI%20%7C%20IoT%20%7C%20Full--Stack-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Mode-Always%20Learning-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CGPA-8.17-brightgreen?style=for-the-badge" />
 </p>
 
 ---
