@@ -43,26 +43,6 @@ Check out my profiles: [LinkedIn](https://linkedin.com) | [GitHub](https://githu
 | 🏠 [Smart Hostel Management](https://github.com/deepakparameshece/Smart-hostel-management) | TypeScript | Smart hostel management system |
 | ⚡ [Smart Residential Energy Management](https://github.com/deepakparameshece/Smart-Residential-Energy-Management-System) | Java Spring Boot, MySQL | Role-based smart device control with real-time energy monitoring & analytics |
 
----
-
-## 🏆 Accomplishments
-
-- 🥇 **First Prize** — National Level Symposium @ Nandha College & Kongu Engineering College
-- 🏅 **Mr. Oracle Award** — Best Performer at Oracle 2K25, GCT Coimbatore
-- 🎯 **Top 10 Teams** — RBI90 Quiz Competition
-- 💡 **SIH Internal Hackathon** Participant — 2024 & 2025
-- 🔬 **CICADA'25** Participant — KPR Institute of Technology
-
----
-
-## 📜 Certifications
-
-- 🏢 Assistant Trainee — **Codebind Technologies, Trichy**
-- ☕ Fundamental Java Programming — **Infosys Springboard**
-- 🌐 Introduction to IoT — **Cisco Networking Academy**
-- ⚡ Digital Circuits — **NPTEL**
-
----
 
 <details>
   <summary>📊 GitHub Stats ⚡</summary><br/>
@@ -74,14 +54,6 @@ Check out my profiles: [LinkedIn](https://linkedin.com) | [GitHub](https://githu
 
 </details>
 
----
-
-## 🌐 Languages
-
-![Tamil](https://img.shields.io/badge/Tamil-Native-red?style=flat-square)
-![English](https://img.shields.io/badge/English-Upper%20Intermediate-blue?style=flat-square)
-
----
 
 > **"Building systems that think, connect, and create — from hardware to cloud."**
 
