@@ -31,6 +31,18 @@
   <img src="https://img.shields.io/badge/Mode-Always%20Learning-orange?style=for-the-badge" />
 </p>
 
+
+<details>
+  <summary>📊 GitHub Stats ⚡</summary><br/>
+
+![](https://github-readme-stats.shion.dev/api?username=deepakparameshece&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
+![](https://streak-stats.demolab.com/?user=deepakparameshece&theme=dark&hide_border=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=deepakparameshece&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://komarev.com/ghpvc/?username=deepakparameshece&style=for-the-badge&color=blue)
+
+</details>
+
+
 ---
 
 ## 🔭 Featured Projects
@@ -96,17 +108,6 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
-
-<details>
-  <summary>📊 GitHub Stats ⚡</summary><br/>
-
-![](https://github-readme-stats.shion.dev/api?username=deepakparameshece&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
-![](https://streak-stats.demolab.com/?user=deepakparameshece&theme=dark&hide_border=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=deepakparameshece&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-![](https://komarev.com/ghpvc/?username=deepakparameshece&style=for-the-badge&color=blue)
-
-</details>
-
 
 > **"Building systems that think, connect, and create — from hardware to cloud."**
 
