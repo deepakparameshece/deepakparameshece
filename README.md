@@ -11,7 +11,7 @@
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
 
 🎓 B.E – Electronics and Communication Engineering (ECE)  
-🏫 Pre-Final Year @ VSB Engineering College, Karur  
+🏫 Final Year @ VSB Engineering College, Karur  
 🤖 Passionate AI + IoT + Full Stack Developer  
 ⚡ Building systems that connect hardware to intelligence  
 📧 deepak.vsbec@gmail.com  
