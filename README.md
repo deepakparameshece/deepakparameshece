@@ -1,6 +1,10 @@
 <p align="center">
   <img src="https://github.com/deepakparameshece/deepakparameshece/blob/main/banner1.png?raw=true" width="100%" />
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mr-sanjai-offl/mr-sanjai-offl/main/Welcome.gif" alt="mrsanjaioffl welcome Animation" width="50%" />
+</p>
+
 
 
 ## 🧑‍💻 About Me
