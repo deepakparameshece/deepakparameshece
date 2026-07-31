@@ -13,7 +13,6 @@
 🎓 B.E – Electronics and Communication Engineering (ECE)  
 🏫 Pre-Final Year @ VSB Engineering College, Karur  
 🤖 Passionate AI + IoT + Full Stack Developer  
-🧠 LeetCode & DSA Problem Solver  
 ⚡ Building systems that connect hardware to intelligence  
 📧 deepak.vsbec@gmail.com  
 
